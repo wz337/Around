@@ -47,7 +47,7 @@ func handlerPost(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	fmt.Fprintf(w, "Post received: %s\n", p.Message)
+	//fmt.Fprintf(w, "Post received: %s\n", p.Message)
 
 	// Create a client
 	es_client, err := elastic.NewClient(elastic.SetURL(ES_URL), elastic.SetSniff(false))

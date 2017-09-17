@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="008ef404-0410-47a0-8fa4-05846c1ffaa8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/main.go" afterPath="$PROJECT_DIR$/service/main.go" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,9 +26,11 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/service/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="49" column="6" lean-forward="false" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="393">
+              <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#190#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,8 +61,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="292" />
-    <option name="y" value="77" />
+    <option name="x" value="430" />
+    <option name="y" value="89" />
     <option name="width" value="1217" />
     <option name="height" value="770" />
   </component>
@@ -226,15 +227,15 @@
       <option name="presentableId" value="Default" />
       <updated>1505602057495</updated>
       <workItem from="1505602058973" duration="909000" />
-      <workItem from="1505682552889" duration="18000" />
+      <workItem from="1505682552889" duration="757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="927000" />
+    <option name="totallyTimeSpent" value="1666000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="292" y="77" width="1217" height="770" extended-state="0" />
+    <frame x="430" y="89" width="1217" height="770" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -272,7 +273,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/service/main.go</url>
+          <line>2</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -288,7 +298,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-          <folding />
+          <folding>
+            <element signature="e#14#190#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -302,9 +314,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/service/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="49" column="6" lean-forward="false" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="393">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#190#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
